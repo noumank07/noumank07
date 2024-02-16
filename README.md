@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cyber security
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me .
-- nouman_k07  my insta account
+- Linkedin: www.linkedin.com/in/nouman-khalid-41bb25231
 
 <!---
 noumank07/noumank07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
