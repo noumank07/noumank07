@@ -1,5 +1,6 @@
 
 <!---
-noumank07/noumank07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+A cybersecurity student with strong foundations of network security, operating system, programming.
+Interested in SOC.
+Pentesting
 --->
